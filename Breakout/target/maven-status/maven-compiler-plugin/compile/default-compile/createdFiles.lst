@@ -1,0 +1,12 @@
+com\mycompany\breakout\Brick.class
+com\mycompany\breakout\Breakout$1.class
+com\mycompany\breakout\Paddle.class
+com\mycompany\breakout\Vector.class
+com\mycompany\breakout\upgrade\Upgrade.class
+com\mycompany\breakout\GameStatus.class
+com\mycompany\breakout\Breakout$2.class
+com\mycompany\breakout\Ball.class
+com\mycompany\breakout\Breakout.class
+com\mycompany\breakout\upgrade\impl\Add.class
+com\mycompany\breakout\upgrade\impl\Multiply.class
+com\mycompany\breakout\AudioMngr.class
